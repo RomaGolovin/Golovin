@@ -1,0 +1,15 @@
+d:\work\dex\git\git_my\LearnMassiv\bin\Debug\net8.0\LearnMassiv.exe
+d:\work\dex\git\git_my\LearnMassiv\bin\Debug\net8.0\LearnMassiv.deps.json
+d:\work\dex\git\git_my\LearnMassiv\bin\Debug\net8.0\LearnMassiv.runtimeconfig.json
+d:\work\dex\git\git_my\LearnMassiv\bin\Debug\net8.0\LearnMassiv.dll
+d:\work\dex\git\git_my\LearnMassiv\bin\Debug\net8.0\LearnMassiv.pdb
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.GeneratedMSBuildEditorConfig.editorconfig
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.AssemblyInfoInputs.cache
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.AssemblyInfo.cs
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.csproj.CoreCompileInputs.cache
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.sourcelink.json
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.dll
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\refint\LearnMassiv.dll
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.pdb
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\LearnMassiv.genruntimeconfig.cache
+d:\work\dex\git\git_my\LearnMassiv\obj\Debug\net8.0\ref\LearnMassiv.dll

@@ -1,0 +1,15 @@
+D:\work\dex\git\git_my\Class\bin\Debug\net8.0\Class.exe
+D:\work\dex\git\git_my\Class\bin\Debug\net8.0\Class.deps.json
+D:\work\dex\git\git_my\Class\bin\Debug\net8.0\Class.runtimeconfig.json
+D:\work\dex\git\git_my\Class\bin\Debug\net8.0\Class.dll
+D:\work\dex\git\git_my\Class\bin\Debug\net8.0\Class.pdb
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.AssemblyInfo.cs
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.sourcelink.json
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.dll
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\refint\Class.dll
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.pdb
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\Class.genruntimeconfig.cache
+D:\work\dex\git\git_my\Class\obj\Debug\net8.0\ref\Class.dll

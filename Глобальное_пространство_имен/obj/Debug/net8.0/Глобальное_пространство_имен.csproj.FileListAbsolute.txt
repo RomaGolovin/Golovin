@@ -1,0 +1,15 @@
+D:\work\dex\git\git_my\Глобальное_пространство_имен\bin\Debug\net8.0\Глобальное_пространство_имен.exe
+D:\work\dex\git\git_my\Глобальное_пространство_имен\bin\Debug\net8.0\Глобальное_пространство_имен.deps.json
+D:\work\dex\git\git_my\Глобальное_пространство_имен\bin\Debug\net8.0\Глобальное_пространство_имен.runtimeconfig.json
+D:\work\dex\git\git_my\Глобальное_пространство_имен\bin\Debug\net8.0\Глобальное_пространство_имен.dll
+D:\work\dex\git\git_my\Глобальное_пространство_имен\bin\Debug\net8.0\Глобальное_пространство_имен.pdb
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.AssemblyInfo.cs
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.sourcelink.json
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.dll
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\refint\Глобальное_пространство_имен.dll
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.pdb
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\Глобальное_пространство_имен.genruntimeconfig.cache
+D:\work\dex\git\git_my\Глобальное_пространство_имен\obj\Debug\net8.0\ref\Глобальное_пространство_имен.dll

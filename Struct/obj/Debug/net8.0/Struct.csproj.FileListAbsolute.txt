@@ -1,0 +1,15 @@
+D:\work\dex\git\git_my\Struct\bin\Debug\net8.0\Struct.exe
+D:\work\dex\git\git_my\Struct\bin\Debug\net8.0\Struct.deps.json
+D:\work\dex\git\git_my\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+D:\work\dex\git\git_my\Struct\bin\Debug\net8.0\Struct.dll
+D:\work\dex\git\git_my\Struct\bin\Debug\net8.0\Struct.pdb
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.dll
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\refint\Struct.dll
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.pdb
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+D:\work\dex\git\git_my\Struct\obj\Debug\net8.0\ref\Struct.dll

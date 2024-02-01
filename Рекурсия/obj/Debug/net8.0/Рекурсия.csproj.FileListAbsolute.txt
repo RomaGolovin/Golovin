@@ -1,0 +1,15 @@
+D:\work\dex\git\git_my\Рекурсия\bin\Debug\net8.0\Рекурсия.exe
+D:\work\dex\git\git_my\Рекурсия\bin\Debug\net8.0\Рекурсия.deps.json
+D:\work\dex\git\git_my\Рекурсия\bin\Debug\net8.0\Рекурсия.runtimeconfig.json
+D:\work\dex\git\git_my\Рекурсия\bin\Debug\net8.0\Рекурсия.dll
+D:\work\dex\git\git_my\Рекурсия\bin\Debug\net8.0\Рекурсия.pdb
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.AssemblyInfo.cs
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.sourcelink.json
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.dll
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\refint\Рекурсия.dll
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.pdb
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\Рекурсия.genruntimeconfig.cache
+D:\work\dex\git\git_my\Рекурсия\obj\Debug\net8.0\ref\Рекурсия.dll

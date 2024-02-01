@@ -1,0 +1,15 @@
+D:\work\dex\git\git_my\ТипыЗначений\bin\Debug\net8.0\ТипыЗначений.exe
+D:\work\dex\git\git_my\ТипыЗначений\bin\Debug\net8.0\ТипыЗначений.deps.json
+D:\work\dex\git\git_my\ТипыЗначений\bin\Debug\net8.0\ТипыЗначений.runtimeconfig.json
+D:\work\dex\git\git_my\ТипыЗначений\bin\Debug\net8.0\ТипыЗначений.dll
+D:\work\dex\git\git_my\ТипыЗначений\bin\Debug\net8.0\ТипыЗначений.pdb
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.AssemblyInfo.cs
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.sourcelink.json
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.dll
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\refint\ТипыЗначений.dll
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.pdb
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ТипыЗначений.genruntimeconfig.cache
+D:\work\dex\git\git_my\ТипыЗначений\obj\Debug\net8.0\ref\ТипыЗначений.dll

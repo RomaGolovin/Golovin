@@ -1,0 +1,15 @@
+D:\work\dex\git\git_my\Metod\bin\Debug\net8.0\Metod.exe
+D:\work\dex\git\git_my\Metod\bin\Debug\net8.0\Metod.deps.json
+D:\work\dex\git\git_my\Metod\bin\Debug\net8.0\Metod.runtimeconfig.json
+D:\work\dex\git\git_my\Metod\bin\Debug\net8.0\Metod.dll
+D:\work\dex\git\git_my\Metod\bin\Debug\net8.0\Metod.pdb
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.AssemblyInfo.cs
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.sourcelink.json
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.dll
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\refint\Metod.dll
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.pdb
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\Metod.genruntimeconfig.cache
+D:\work\dex\git\git_my\Metod\obj\Debug\net8.0\ref\Metod.dll

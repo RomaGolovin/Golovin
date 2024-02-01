@@ -1,0 +1,12 @@
+D:\work\dex\git\git_my\MyLib\bin\Debug\net8.0\MyLib.deps.json
+D:\work\dex\git\git_my\MyLib\bin\Debug\net8.0\MyLib.dll
+D:\work\dex\git\git_my\MyLib\bin\Debug\net8.0\MyLib.pdb
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.sourcelink.json
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.dll
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\refint\MyLib.dll
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\MyLib.pdb
+D:\work\dex\git\git_my\MyLib\obj\Debug\net8.0\ref\MyLib.dll

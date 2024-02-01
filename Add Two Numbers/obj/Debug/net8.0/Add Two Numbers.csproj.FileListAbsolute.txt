@@ -1,0 +1,19 @@
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.exe
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.deps.json
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.runtimeconfig.json
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.dll
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.pdb
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.AssemblyInfoInputs.cache
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.AssemblyInfo.cs
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.sourcelink.json
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.dll
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\refint\Add Two Numbers.dll
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.pdb
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.genruntimeconfig.cache
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\ref\Add Two Numbers.dll
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\MyLib.dll
+D:\work\dex\git\git_my\Add Two Numbers\bin\Debug\net8.0\MyLib.pdb
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.csproj.AssemblyReference.cache
+D:\work\dex\git\git_my\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.csproj.CopyComplete
